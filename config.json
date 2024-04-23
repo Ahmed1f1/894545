@@ -1,0 +1,15 @@
+{
+    "prefix": "",
+    "token":"MTIxODk3NDk4MjUwODY0NjQ1Mg.GW3VL6.4oYK1H_b8XHqdWqblqB9lAZ8qNy-qjGC3lZSyY" ,
+    "clientID": "1218974982508646452",
+    "guildID": "984807348247867422",
+    "youtubeCookie": "",
+    "true":"<a:Sasadance:1166149092024520714>",
+    "music":"<:emoji_66:1089046438484389898>",
+    "owner":["831692613542608896" , ""],
+    "spotify_api": {
+        "enabled": true,
+        "clientId": "1218974982508646452",
+        "clientSecret": "X5QMNuF9q6CnZd3m1_aLshMoXU-d_owI"
+    }
+}
